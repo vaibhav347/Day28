@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jlpcNEMycPy2mc+h+G4DUTHxejx6VnVr59eKCD/VRQjyggslLmKMR0G/ltwp9FkRSD9uDycuQhz3p9eUqLhCA==",
+  "success": true,
+  "projectFilePath": "C:\\Day28\\AddressBook\\CSVFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3011313\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\3011313\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

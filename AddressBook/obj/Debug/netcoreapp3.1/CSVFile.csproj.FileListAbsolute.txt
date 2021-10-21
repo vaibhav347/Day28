@@ -1,0 +1,32 @@
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CSVFile.exe
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CSVFile.deps.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CSVFile.runtimeconfig.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CSVFile.runtimeconfig.dev.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CSVFile.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CSVFile.pdb
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.csproj.AssemblyReference.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.AssemblyInfoInputs.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.AssemblyInfo.cs
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.csproj.CoreCompileInputs.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.csproj.CopyComplete
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.pdb
+C:\Users\3011313\OneDrive - Jabil\Desktop\CSVFile\obj\Debug\netcoreapp3.1\CSVFile.genruntimeconfig.cache
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CSVFile.exe
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CSVFile.deps.json
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CSVFile.runtimeconfig.json
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CSVFile.runtimeconfig.dev.json
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CSVFile.dll
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CSVFile.pdb
+C:\Day28\AddressBook\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.csproj.AssemblyReference.cache
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.AssemblyInfoInputs.cache
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.AssemblyInfo.cs
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.csproj.CoreCompileInputs.cache
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.csproj.CopyComplete
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.dll
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.pdb
+C:\Day28\AddressBook\obj\Debug\netcoreapp3.1\CSVFile.genruntimeconfig.cache
