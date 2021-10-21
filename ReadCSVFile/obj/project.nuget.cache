@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWxwqM4KtymnOPFcCDIuNM+M5/wSgirdD9MkOq/KFUebAunWcNrlxbMZ4kRT0Puj7UERS6JiPjgUmqNEnPrM6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3011313\\OneDrive - Jabil\\Desktop\\CSVFile\\CSVFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3011313\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\3011313\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
