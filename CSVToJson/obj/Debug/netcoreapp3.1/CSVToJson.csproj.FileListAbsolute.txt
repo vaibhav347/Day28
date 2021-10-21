@@ -1,0 +1,5 @@
+C:\Day28\CSVToJson\obj\Debug\netcoreapp3.1\CSVToJson.csproj.AssemblyReference.cache
+C:\Day28\CSVToJson\obj\Debug\netcoreapp3.1\CSVToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day28\CSVToJson\obj\Debug\netcoreapp3.1\CSVToJson.AssemblyInfoInputs.cache
+C:\Day28\CSVToJson\obj\Debug\netcoreapp3.1\CSVToJson.AssemblyInfo.cs
+C:\Day28\CSVToJson\obj\Debug\netcoreapp3.1\CSVToJson.csproj.CoreCompileInputs.cache
